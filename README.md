@@ -51,6 +51,7 @@ _PROGRAM:_
 
 a=16
 binary_number= bin(x)
+
 print(binary_number)
 
 _OUTPUT:_
