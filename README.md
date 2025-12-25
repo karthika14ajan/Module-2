@@ -18,16 +18,8 @@ Else, print that it is not a palindrome.
 
 _PROGRAM:_
 
-num=int(input())
-rev=0
-temp=num
-while temp>0:
-    rev=(10*rev)+temp%10
-    temp//=10
-if rev==num:
-    print("The given number {} is a Palindrome".format(num))
-else:
-    print("The given number {} is not a palindrome".format(num))
+<img width="643" height="247" alt="image" src="https://github.com/user-attachments/assets/74f278bb-b232-4b64-824f-d209ca6e94f8" />
+
 
 _OUTPUT:_
 
@@ -49,10 +41,8 @@ Print the result.
 
 _PROGRAM:_
 
-a=16
-binary_number= bin(x)
+<img width="224" height="82" alt="image" src="https://github.com/user-attachments/assets/7909acf8-b563-4cd5-a2e7-2bea2eee7dda" />
 
-print(binary_number)
 
 _OUTPUT:_
 
@@ -75,10 +65,8 @@ Call the function with the user inputs and print the result.
 
 _PROGRAM:_
 
-a=int(input())
-b=int(input())
-f=lambda a,b:a+b
-print(f(a,b))
+<img width="176" height="95" alt="image" src="https://github.com/user-attachments/assets/22598b80-5505-428f-8c7b-24fc2084ebb2" />
+
 
 _OUTPUT:_
 
@@ -102,13 +90,7 @@ Call the result function with the user-provided values.
 
 _PROGRAM:_
 
-def result(a,b):
-    mod=a%b
-    
-    print(f"modulo is {mod}")
-
-a = int(input())
-b = int(input())
+<img width="318" height="157" alt="image" src="https://github.com/user-attachments/assets/372341cc-cac2-411b-baf5-756d2be9e716" />
 
 _OUTPUT:_
 
@@ -138,13 +120,8 @@ End the program.
 
 _PROGRAM:_
 
-n = int(input())
-for i in range(1,n+1):
-    c=1
-    for j in range(1,i+1):
-        print(c,end=' ')
-        c = c*(i-j)//j
-    print()
+<img width="321" height="176" alt="image" src="https://github.com/user-attachments/assets/c4cbf3cc-3971-4a6a-9f9a-13e9187bd996" />
+
 
 _OUTPUT:_
 
