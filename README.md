@@ -1,4 +1,4 @@
-*Iterative Statements: Palindrome Number Checker*
+# *Iterative Statements: Palindrome Number Checker*
 
 _AIM:_
 To write a Python program that checks whether a given number is a palindrome using loops.
@@ -28,7 +28,7 @@ _OUTPUT:_
 _RESULT:_
 Thus , the program has been executed succesfully.
 
-*Built-in Functions -Binary Conversion Using Built-in Functions in Python*
+# *Built-in Functions -Binary Conversion Using Built-in Functions in Python*
 
 _AIM:_
 To write a Python program to convert the number 16 into its binary representation using built-in Python functions.
@@ -52,7 +52,7 @@ _OUTPUT:_
 _RESULT:_
 Thus , the program has been executed succesfully.
 
-*Lambda Function in Python: Addition of Two Numbers*
+# *Lambda Function in Python: Addition of Two Numbers*
 
 _AIM:_
 To write a Python program that defines a lambda function which takes two arguments a and b, and returns their sum.
@@ -75,7 +75,7 @@ _OUTPUT:_
 _RESULT:_
 Thus , the program has been executed succesfully.
 
-*Functions in Python: Modulo Calculator*
+# *Functions in Python: Modulo Calculator*
 
 _AIM:_
 To write a Python program that defines a function which accepts two values and returns their modulo using the % operator.
@@ -99,7 +99,7 @@ _OUTPUT:_
 _RESULT:_
 Thus , the program has been executed succesfully.
 
-*🔺 Looping(Patterns)-Pascal's Triangle Generator in Python*
+# *🔺 Looping(Patterns)-Pascal's Triangle Generator in Python*
 
 _*This project demonstrates a simple Python program to generate Pascal’s Triangle, where the number of rows is provided by the user.*_
 
